@@ -1,3 +1,8 @@
+#VisualStudio
+task1
+task2
+.vscode
+
 # Prerequisites
 *.d
 
