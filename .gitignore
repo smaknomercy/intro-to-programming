@@ -5,7 +5,9 @@ task2
 
 # Prerequisites
 *.d
-
+.vscode
+task1
+task2
 # Object files
 *.o
 *.ko
