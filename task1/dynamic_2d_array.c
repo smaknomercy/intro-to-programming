@@ -19,7 +19,7 @@ int fill_2d_array(char** arr, int size) {
         printf("Enter string for row %d: ", i + 1);
         size_t len = 0;
         arr[i] = NULL;
-        if (getline(&arr[i], &len) == -1) {
+        if (getline(&arr[i], &len, stdin) == -1) {
             printf("Failed to read line");
             return -1;
         }
