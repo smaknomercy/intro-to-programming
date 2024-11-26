@@ -5,7 +5,7 @@ My repository to course "Introduction to programming"
 
 Run: "make" in terminal to compile program
 
-Then run "./home_task_7"
+Then run "./polygons"
 
 
 # To run the task 2 with additional task:
